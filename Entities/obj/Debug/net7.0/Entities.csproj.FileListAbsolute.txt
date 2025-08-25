@@ -10,3 +10,4 @@ C:\Users\Wenedy\Documents\Projetos\Financeiro\Entities\obj\Debug\net7.0\Entities
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\Wenedy\Documents\Projetos\Financeiro\Entities\obj\Debug\net7.0\Entities.sourcelink.json

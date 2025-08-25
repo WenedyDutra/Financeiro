@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{211FF5D1-6398-4736-A4F9-ECBF53E0D27C}|API\\API.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211FF5D1-6398-4736-A4F9-ECBF53E0D27C}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211FF5D1-6398-4736-A4F9-ECBF53E0D27C}|API\\API.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{211FF5D1-6398-4736-A4F9-ECBF53E0D27C}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58127EDE-615A-466F-A9FA-F1CFFD9D3891}|Infra\\Infra.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58127EDE-615A-466F-A9FA-F1CFFD9D3891}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58127EDE-615A-466F-A9FA-F1CFFD9D3891}|Infra\\Infra.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\infra\\repositorio\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58127EDE-615A-466F-A9FA-F1CFFD9D3891}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{211FF5D1-6398-4736-A4F9-ECBF53E0D27C}|API\\API.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{211FF5D1-6398-4736-A4F9-ECBF53E0D27C}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58127EDE-615A-466F-A9FA-F1CFFD9D3891}|Infra\\Infra.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58127EDE-615A-466F-A9FA-F1CFFD9D3891}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D3FCCA5-2F37-4956-AF65-82B70FA242A8}|Entities\\Entities.csproj|c:\\users\\wenedy\\documents\\projetos\\financeiro\\entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,11 +106,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T23:45:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T23:20:13.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RepositoryGenerics.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Infra\\Repositorio\\RepositoryGenerics.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositoryGenerics.cs",
@@ -115,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -134,14 +168,14 @@
               "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
               "ToolTip": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Infra\\Configuracao\\ContextBase.cs",
               "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAABkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T17:50:29.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IUsuarioSistemaFinanceiroService.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiroService.cs",
@@ -154,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Entidades\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Entities\\Entidades\\ApplicationUser.cs",
@@ -167,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -180,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ISistemaFinanceiroService.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiroService.cs",
@@ -193,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IDespesaService.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\InterfaceServicos\\IDespesaService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IDespesaService.cs",
@@ -206,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ICategoriaService.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaService.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaService.cs",
@@ -219,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IUsuarioSistemaFinanceiro.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\IUsuarioSistemaFinanceiro.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioSistemaFinanceiro\\IUsuarioSistemaFinanceiro.cs",
@@ -232,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ISistemaFinanceiro.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\ISistemaFinanceiro\\ISistemaFinanceiro.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ISistemaFinanceiro\\ISistemaFinanceiro.cs",
@@ -245,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IDespesa.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\IDespesa\\IDespesa.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IDespesa\\IDespesa.cs",
@@ -258,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ICategoria.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\ICategoria\\ICategoria.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\ICategoria\\ICategoria.cs",
@@ -271,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "InterfaceGeneric.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
@@ -284,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "EnumTipoDespesa.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Enums\\EnumTipoDespesa.cs",
               "RelativeDocumentMoniker": "Entities\\Enums\\EnumTipoDespesa.cs",
@@ -297,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Despesa.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Entidades\\Despesa.cs",
               "RelativeDocumentMoniker": "Entities\\Entidades\\Despesa.cs",
@@ -310,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Entidades\\Categoria.cs",
               "RelativeDocumentMoniker": "Entities\\Entidades\\Categoria.cs",
@@ -323,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UsuarioSistemaFinanceiro.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
               "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
@@ -336,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "SistemaFinanceiro.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Entidades\\SistemaFinanceiro.cs",
               "RelativeDocumentMoniker": "Entities\\Entidades\\SistemaFinanceiro.cs",
@@ -349,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Entidades\\Base.cs",
               "RelativeDocumentMoniker": "Entities\\Entidades\\Base.cs",
@@ -362,20 +396,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Notifica.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Notificacoes\\Notifica.cs",
               "RelativeDocumentMoniker": "Entities\\Notificacoes\\Notifica.cs",
               "ToolTip": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Notificacoes\\Notifica.cs",
               "RelativeToolTip": "Entities\\Notificacoes\\Notifica.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAABRwCUAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBZwCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T17:09:23.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Wenedy\\Documents\\Projetos\\Financeiro\\Entities\\Class1.cs",
               "RelativeDocumentMoniker": "Entities\\Class1.cs",

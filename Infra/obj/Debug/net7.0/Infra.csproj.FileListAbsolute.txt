@@ -15,3 +15,4 @@ C:\Users\Wenedy\Documents\Projetos\Financeiro\Infra\bin\Debug\net7.0\Domain.pdb
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Infra\bin\Debug\net7.0\Entities.pdb
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Infra\obj\Debug\net7.0\Infra.csproj.Up2Date
+C:\Users\Wenedy\Documents\Projetos\Financeiro\Infra\obj\Debug\net7.0\Infra.sourcelink.json

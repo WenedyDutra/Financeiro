@@ -9,3 +9,4 @@ C:\Users\Wenedy\Documents\Projetos\Financeiro\Helpers\obj\Debug\net7.0\Helpers.d
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Helpers\obj\Debug\net7.0\Helpers.pdb
 C:\Users\Wenedy\Documents\Projetos\Financeiro\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\Users\Wenedy\Documents\Projetos\Financeiro\Helpers\obj\Debug\net7.0\Helpers.sourcelink.json
