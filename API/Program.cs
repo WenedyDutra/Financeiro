@@ -1,4 +1,8 @@
 using Domain.Interfaces.Generics;
+using Domain.Interfaces.ICategoria;
+using Domain.Interfaces.IDespesa;
+using Domain.Interfaces.ISistemaFinanceiro;
+using Domain.Interfaces.IUsuarioSistemaFinanceiro;
 using Entities.Entidades;
 using Infra.Configuracao;
 using Infra.Repositorio;
@@ -20,6 +24,10 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
 
 //INTERFACE E REPOSITORIO
 builder.Services.AddSingleton(typeof(InterfaceGeneric<>), typeof(RepositoryGenerics<>));
+builder.Services.AddSingleton<ICategoria, RepositoryCategoria>();
+builder.Services.AddSingleton<IDespesa, RepositoryDespesa>();
+builder.Services.AddSingleton<ISistemaFinanceiro, RepositorySistemaFinanceiro>();
+builder.Services.AddSingleton<IUsuarioSistemaFinanceiro, RepositoryUsuarioSistemaFinanceiro>();
 
 var app = builder.Build();
 

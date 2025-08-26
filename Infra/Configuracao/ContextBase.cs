@@ -16,9 +16,9 @@ namespace Infra.Configuracao
         }
 
         public DbSet<SistemaFinanceiro> SistemaFinanceiro {  get; set; }
-        public DbSet<SistemaFinanceiro> UsuarioSistemaFinanceiro { get; set; }
-        public DbSet<SistemaFinanceiro> Categoria { get; set; }
-        public DbSet<SistemaFinanceiro> Despesa{ get; set; }
+        public DbSet<UsuarioSistemaFinanceiro> UsuarioSistemaFinanceiro { get; set; }
+        public DbSet<Categoria> Categoria { get; set; }
+        public DbSet<Despesa> Despesa{ get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
